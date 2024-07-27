@@ -1,8 +1,8 @@
-Busca de Endereço Brasil
+#Busca de Endereço Brasil
 
 Um aplicativo web simples para buscar informações de endereço no Brasil utilizando CEPs. O projeto permite que os usuários insiram um CEP e obtenham detalhes como Rua, Bairro, Cidade e Estado.
 
-Funcionalidades:
+#Funcionalidades:
 
 Busca e exibe Rua, Bairro, Cidade e Estado com base no CEP informado.
 Interface amigável e responsiva.
@@ -12,7 +12,8 @@ Como Usar:
 Digite um CEP válido no campo de entrada.
 Clique no botão "Buscar".
 Visualize as informações detalhadas do endereço no painel de resultados.
-Tecnologias Utilizadas:
+
+#Tecnologias Utilizadas:
 
 HTML
 CSS
